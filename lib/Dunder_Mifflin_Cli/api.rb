@@ -4,4 +4,6 @@ class Api
     data = JSON.parse(response.body)
     binding.pry
    end
+
+   
 end
