@@ -1,3 +1,0 @@
-class Qoute
-    
-end
