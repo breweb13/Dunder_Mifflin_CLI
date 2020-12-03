@@ -1,8 +1,6 @@
 # DunderMifflin
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Dunder_Mifflin`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to Dunder Mifflin Paper Company! This gem was created for my very first Flatiron School Phase 1 project. I developed this gem to help office fans view quotes from the tv show. This gem allows the user to view a list of quotes from the show and find the character that said the quote.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Execute the bin file bin/run and  You will be prompted with the option to select 1 to list quotes or the option to exit the program. Once you select the list quotes option, You can select a quote number to view further details on the quote which will reveal the character who said the line from the Tv-Show.
 
 ## Development
 
